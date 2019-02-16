@@ -20,6 +20,14 @@ http://35.232.236.49/users/id/LT/1000
 In this example we select all record that the ID is less than 1000
 
 
+```html
+http://35.232.236.49/users/text/like/aviad
+```
+
+This is an example of a like operation
+
+
+
 ##Documentation
 
 For more usage and full documentation you can check our website [TanaSoftware](http://tanasoftware.com/)
