@@ -2,7 +2,7 @@ import requests
 import json
 
 
-BASE_URL = "http://35.232.236.49"
+BASE_URL = "http://35.202.191.171"
 TABLE_NAME = "users"
 
 def sending_request(url):
