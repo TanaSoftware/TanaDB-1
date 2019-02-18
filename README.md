@@ -7,25 +7,24 @@ For this Demo we created a single Table called users with little more than 20000
 
 ## Usage
 ```html
-http://35.202.191.171/users/id/23
+http://35.232.236.49/users/id/23
 ``` 
 
 In this example we select a record that the ID equal to 23
 
 
 ```html
-http://35.202.191.171/users/id/LT/1000
+http://35.232.236.49/users/id/LT/1000
 ``` 
 
 In this example we select all record that the ID is less than 1000
 
 
 ```html
-http://35.202.191.171/users/text/like/aviad
+http://35.232.236.49/users/text/like/aviad
 ```
 
 This is an example of a like operation
-
 
 
 
