@@ -21,7 +21,7 @@ In this example we select all record that the ID is less than 1000
 
 
 ```html
-http://35.202.191.171/users/text/like/aviad
+http://35.202.191.171/users/text/like/userX
 ```
 
 This is an example of a like operation
